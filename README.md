@@ -95,7 +95,7 @@ A public showcase with screenshots, architecture notes and selected examples is 
 ## Get in touch
 
 * Email: [bohmeier.boris@gmail.com](mailto:bohmeier.boris@gmail.com)
-* GitHub: github.com/YOUR-USERNAME
+* GitHub: github.com/BorisBoh
 * Portfolio: coming soon
 * LinkedIn: coming soon
 
