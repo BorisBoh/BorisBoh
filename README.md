@@ -1,20 +1,22 @@
 # Hi, I'm Boris
 
-I'm a Python-focused junior developer with practical experience in data visualization tools and internal applications.
+I'm a Python-focused junior developer with practical experience in data visualization tools, internal applications and interactive software for technical workflows.
 
-At work, I mainly use Python frameworks such as Panel/HoloViz, Streamlit, Viktor.ai and Plotly to build interactive tools and visualizations. In my own projects, I am currently learning backend development with FastAPI, Django and SQLAlchemy.
+At work, I mainly build Python-based tools and visualizations using frameworks such as Panel/HoloViz, Streamlit, Viktor.ai and Plotly.
+In my own projects, I am currently expanding my backend and fullstack skills with FastAPI, Django, SQLAlchemy, React and relational databases.
 
-Besides software development, I am an active football player and C-licensed youth coach.
+Besides software development, I am completing my master's degree in Applied Geosciences.
+In my free time, I am an active football player and C-licensed youth coach.
 
 ---
 
 ## About me
 
 * Python-focused junior developer
-* Practical experience with data visualization tools and internal applications
+* Practical experience with internal tools, data visualization and interactive applications
 * Interested in backend development, data processing and football-related software
+* Currently improving my skills around APIs, databases and fullstack architecture
 * Active football player and C-licensed youth coach
-* Currently building my skills around APIs, databases and fullstack project structure
 
 ---
 
@@ -22,9 +24,13 @@ Besides software development, I am an active football player and C-licensed yout
 
 ### MatchGrid
 
-A private football tournament platform project.
+**MatchGrid** is a private fullstack project for organizing football tournaments.
 
-I started MatchGrid to practice backend development, relational data modeling and React-based frontend development in a football context I know well.
+The idea started from a real use case: my university football league is still managed mostly with Excel sheets and static images of match schedules and results. I wanted to build a more interactive solution that makes league and tournament information easier to manage, update and share.
+
+The long-term idea is to explore whether MatchGrid could also support other university leagues, amateur football tournaments, clubs and recreational sports events.
+
+I started the project to practice backend development, relational data modeling and React-based frontend development in a football context I know well.
 
 The project currently explores:
 
@@ -34,8 +40,38 @@ The project currently explores:
 * standings calculation
 * knockout rounds
 * admin workflows
+* public tournament views
 
-**Tech stack:** Python · FastAPI · SQLAlchemy · React · SQLite/PostgreSQL
+### MatchGrid tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,react,ts,html,css,figma" alt="MatchGrid tech stack icons" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres" alt="Backend tech icons" />
+</p>
+
+* Python
+* FastAPI
+* SQLAlchemy
+* SQLite
+* PostgreSQL basics / planned production setup
+* REST API structure
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,figma" alt="Frontend tech icons" />
+</p>
+
+* React
+* TypeScript basics
+* HTML
+* CSS
+* Figma UI concepts
 
 The full repository is private because I may continue developing the project as a real product.
 A public showcase with screenshots, architecture notes and selected examples is planned.
@@ -46,6 +82,10 @@ A public showcase with screenshots, architecture notes and selected examples is 
 
 ### Main experience
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python icon" />
+</p>
+
 * Python
 * Panel / HoloViz
 * Streamlit
@@ -55,29 +95,31 @@ A public showcase with screenshots, architecture notes and selected examples is 
 * data visualization
 * internal tools
 
-### Additional experience
+### Currently learning
 
-* React
-* TypeScript / JavaScript basics
-* HTML / CSS
-* Figma
-* C#
-* Unity
-* Webflow
-* Git / GitHub
-
----
-
-## Currently learning
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,sqlite,react,ts" alt="Currently learning tech icons" />
+</p>
 
 * FastAPI
 * Django
 * SQLAlchemy
 * SQLite / PostgreSQL
-* REST API design
-* authentication and protected admin areas
-* deployment workflows
-* clean backend architecture
+* REST APIs
+* React / TypeScript
+* fullstack project structure
+
+### Additional experience
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,figma,cs,unity,git,github" alt="Additional tech icons" />
+</p>
+
+* HTML / CSS
+* Figma
+* C#
+* Unity
+* Git / GitHub
 
 ---
 
@@ -95,9 +137,10 @@ A public showcase with screenshots, architecture notes and selected examples is 
 ## Get in touch
 
 * Email: [bohmeier.boris@gmail.com](mailto:bohmeier.boris@gmail.com)
-* GitHub: github.com/BorisBoh
+* GitHub: [github.com/BorisBoh](https://github.com/BorisBoh)
 * Portfolio: coming soon
 * LinkedIn: coming soon
+
 
 
 <!--
